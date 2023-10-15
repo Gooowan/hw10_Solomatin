@@ -1,3 +1,5 @@
+// Interface to control access on another object
+
 class RealObject {
     display() {
         return 'Displaying Real Image';

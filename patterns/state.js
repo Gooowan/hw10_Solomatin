@@ -1,3 +1,5 @@
+// Changing object behavior due object states by transitions
+
 class StateA {
     handle(context) {
         console.log('State A handling');

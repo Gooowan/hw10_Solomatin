@@ -1,3 +1,5 @@
+// Help to omit useless optional configurations. Representing objects using the same construction code
+
 class Builder {
     setPartA(partA) {
         this.partA = partA;

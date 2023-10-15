@@ -1,3 +1,5 @@
+// Only one class instance with global access
+
 class Singleton {
     constructor() {
         if (Singleton.instance) {

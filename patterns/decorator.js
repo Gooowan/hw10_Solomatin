@@ -1,3 +1,5 @@
+// Changing a dynamic object without affecting on whole class
+
 class Patrol {
     cost() {
         return 5;
